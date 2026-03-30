@@ -4,3 +4,5 @@ using namespace std;
 // Variabel global
 int angka;
 int pilihan;
+
+// Function untuk cek bilangan prima
