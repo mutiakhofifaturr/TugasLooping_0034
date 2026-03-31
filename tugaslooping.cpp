@@ -20,3 +20,6 @@ bool isPrima(int n) {
 }
 
 // Function untuk cek bilangan Fibonacci
+bool isFibonacci(int n){
+    
+}
