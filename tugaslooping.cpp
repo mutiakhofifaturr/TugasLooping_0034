@@ -18,3 +18,5 @@ bool isPrima(int n) {
     }
     return true; 
 }
+
+// Function untuk cek bilangan Fibonacci
