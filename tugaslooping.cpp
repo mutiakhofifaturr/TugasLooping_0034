@@ -33,3 +33,5 @@ bool isFibonacci(int n){
     }
     return false;
 }
+
+// Prosedur input angka
