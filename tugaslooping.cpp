@@ -35,3 +35,6 @@ bool isFibonacci(int n){
 }
 
 // Prosedur input angka
+void inputAngka() {
+    
+}
