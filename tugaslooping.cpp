@@ -41,3 +41,6 @@ void inputAngka() {
 }
 
 // Prosedur tampil hasil prima
+void tampilHasilPrima() {
+    
+}
