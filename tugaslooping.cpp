@@ -48,3 +48,5 @@ void tampilHasilPrima() {
         cout << angka << " bukan bilangan prima.\n";
     }
 }
+
+// Prosedur tampil hasil fibonacci
