@@ -6,3 +6,6 @@ int angka;
 int pilihan;
 
 // Function untuk cek bilangan prima
+bool isPrima(int n) {
+    
+}
